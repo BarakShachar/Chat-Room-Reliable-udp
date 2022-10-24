@@ -16,7 +16,7 @@ In this implementation we tried to simulate Quic over regular (not http or https
 
 # Structure
 Classes we used to implement the project.
-![UML](https://raw.githubusercontent.com/BarakShachar/Python-TCP-Over-UDP/main/UML/Structure_uml.jpg)
+![UML](https://raw.githubusercontent.com/yanir75/Python-TCP-Over-UDP/main/UML/Structure_uml.jpg)
 
 
 --------------
