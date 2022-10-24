@@ -16,7 +16,7 @@ In this implementation we tried to simulate Quic over regular (not http or https
 
 # Structure
 Classes we used to implement the project.
-![UML]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/BarakShachar/Chat-Room-Reliable-udp/blob/main/UML/Structure_uml.jpg))
+![UML](UML/Structure_uml.jpg)
 
 
 --------------
