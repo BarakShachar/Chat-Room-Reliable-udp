@@ -1,6 +1,6 @@
-# Python Reliable udp
+# Python Chat Room with Reliable udp
 In this project we created a chat with the option to download a file.  
-The chat was implemented in TCP,File downloading however was implemented in UDP. But we had to make it reliable, we wouldn't want to miss part of the file. 
+The chat was implemented in TCP, File downloading however was implemented in UDP. But we had to make it reliable, we wouldn't want to miss part of the file. 
 
 --------------
 
@@ -16,7 +16,7 @@ In this implementation we tried to simulate Quic over regular (not http or https
 
 # Structure
 Classes we used to implement the project.
-![UML](https://raw.githubusercontent.com/yanir75/Python-TCP-Over-UDP/main/UML/Structure_uml.jpg)
+![UML](https://raw.githubusercontent.com/BarakShachar/Python-TCP-Over-UDP/main/UML/Structure_uml.jpg)
 
 
 --------------
@@ -24,7 +24,7 @@ Classes we used to implement the project.
 # How to use
 Clone the repository
 ```
-git clone https://github.com/yanir75/Python-Reliable-UDP.git && cd Python-Reliable-UDP/Reliable_UDP
+git clone https://github.com/BarakShachar/Chat-Room-Reliable-udp.git && cd Python-Reliable-UDP/Reliable_UDP
 ```
 
 In case you don't have tkinter module
